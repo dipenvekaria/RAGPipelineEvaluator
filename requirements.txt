@@ -1,0 +1,5 @@
+PyMuPDF==1.24.7
+gradio==4.44.0  # Example, match your version
+qdrant-client==1.12.0
+langchain-openai==0.2.1
+sklearn
