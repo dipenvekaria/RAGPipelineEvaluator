@@ -122,9 +122,3 @@ python-dotenv==1.0.1
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details (if applicable).
 
-## Contact
-
-For questions or issues, please open an issue on the Hugging Face Space repository or contact the maintainer through Hugging Face.
-
----
-*Built with ❤️ by [Your Name or Organization]*
